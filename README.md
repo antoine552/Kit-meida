@@ -20,3 +20,5 @@ Site statique du kit média partenaires Loyoly, déployé automatiquement sur Ve
 4. Commit et push sur `main` : Vercel redéploie en moins d'une minute.
 
 Charte : cream #EEEDE6, ink #2B251F, jaune #FFC700, pink #FA5A8C, bleu #2965FE. Lexend pour les titres, Inter pour le reste.
+
+Déployé automatiquement par Vercel depuis ce repo.
