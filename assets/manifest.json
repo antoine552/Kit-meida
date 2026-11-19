@@ -20,6 +20,23 @@
      "file": "visuals/loyoly-personalisation.png",
      "alt": "Loyoly programme personalisation interface",
      "wide": true
+    },
+    {
+     "label": "Store credit, square",
+     "file": "visuals/loyoly-loyalty-store-credit-en-square.png",
+     "alt": "Loyoly store credit, square",
+     "caption": "loyoly-loyalty-store-credit-en/fr-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-loyalty-store-credit-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-loyalty-store-credit-fr-square.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
     }
    ]
   },
@@ -65,6 +82,23 @@
      "label": "Geofenced notifications",
      "file": "visuals/loyoly-wallet-geofenced-notifications.png",
      "alt": "Loyoly geofenced notifications interface"
+    },
+    {
+     "label": "Sable card, square",
+     "file": "visuals/loyoly-wallet-sable-card-en-square.png",
+     "alt": "Loyoly sable card, square",
+     "caption": "loyoly-wallet-sable-card-en/fr-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-wallet-sable-card-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-wallet-sable-card-fr-square.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
     }
    ]
   },
@@ -109,6 +143,209 @@
      "file": "visuals/loyoly-analytics2.png",
      "alt": "Loyoly retention analytics interface",
      "contain": true
+    },
+    {
+     "label": "Revenue by channel, square",
+     "file": "visuals/loyoly-analytics-revenue-by-channel-es-square.png",
+     "alt": "Loyoly revenue by channel, square",
+     "caption": "loyoly-analytics-revenue-by-channel-es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-revenue-by-channel-es-square.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Revenue by channel, banner",
+     "file": "visuals/loyoly-analytics-revenue-by-channel-en-partner-banner.png",
+     "alt": "Loyoly revenue by channel, partner banner",
+     "wide": true,
+     "caption": "loyoly-analytics-revenue-by-channel-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-revenue-by-channel-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-revenue-by-channel-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-revenue-by-channel-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Average basket uplift, square",
+     "file": "visuals/loyoly-analytics-average-basket-uplift-en-square.png",
+     "alt": "Loyoly average basket uplift, square",
+     "caption": "loyoly-analytics-average-basket-uplift-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-average-basket-uplift-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-average-basket-uplift-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-average-basket-uplift-es-square.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Average basket uplift, banner",
+     "file": "visuals/loyoly-analytics-average-basket-uplift-en-partner-banner.png",
+     "alt": "Loyoly average basket uplift, partner banner",
+     "wide": true,
+     "caption": "loyoly-analytics-average-basket-uplift-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-average-basket-uplift-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-average-basket-uplift-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-average-basket-uplift-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Store ranking, square",
+     "file": "visuals/loyoly-analytics-store-ranking-en-square.png",
+     "alt": "Loyoly store ranking, square",
+     "caption": "loyoly-analytics-store-ranking-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-store-ranking-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-store-ranking-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-store-ranking-es-square.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Store ranking, banner",
+     "file": "visuals/loyoly-analytics-store-ranking-en-partner-banner.png",
+     "alt": "Loyoly store ranking, partner banner",
+     "wide": true,
+     "caption": "loyoly-analytics-store-ranking-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-store-ranking-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-store-ranking-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-store-ranking-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "In store rewards used, square",
+     "file": "visuals/loyoly-analytics-in-store-rewards-used-en-square.png",
+     "alt": "Loyoly in store rewards used, square",
+     "caption": "loyoly-analytics-in-store-rewards-used-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-in-store-rewards-used-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-in-store-rewards-used-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-in-store-rewards-used-es-square.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "In store rewards used, banner",
+     "file": "visuals/loyoly-analytics-in-store-rewards-used-en-partner-banner.png",
+     "alt": "Loyoly in store rewards used, partner banner",
+     "wide": true,
+     "caption": "loyoly-analytics-in-store-rewards-used-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-in-store-rewards-used-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-in-store-rewards-used-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-in-store-rewards-used-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Program revenue ranking, square",
+     "file": "visuals/loyoly-analytics-program-revenue-ranking-en-square.png",
+     "alt": "Loyoly program revenue ranking, square",
+     "caption": "loyoly-analytics-program-revenue-ranking-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-program-revenue-ranking-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-program-revenue-ranking-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-analytics-program-revenue-ranking-es-square.png",
+       "label": "ES"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Program revenue ranking, banner",
+     "file": "visuals/loyoly-analytics-program-revenue-ranking-en-partner-banner.png",
+     "alt": "Loyoly program revenue ranking, partner banner",
+     "wide": true,
+     "caption": "loyoly-analytics-program-revenue-ranking-en/fr-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-analytics-program-revenue-ranking-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-analytics-program-revenue-ranking-fr-partner-banner.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
     }
    ]
   },
@@ -172,12 +409,42 @@
      "file": "visuals/loyoly-segmentation-rfm-recommendations-en-partner-banner.png",
      "alt": "Loyoly RFM segmentation recommendations, partner banner",
      "wide": true,
+     "caption": "loyoly-segmentation-rfm-recommendations-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
      "source": "figma"
     },
     {
      "label": "RFM recommendations, square",
      "file": "visuals/loyoly-segmentation-rfm-recommendations-en-square.png",
      "alt": "Loyoly RFM segmentation recommendations, square",
+     "caption": "loyoly-segmentation-rfm-recommendations-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-es-square.png",
+       "label": "ES"
+      }
+     ],
      "source": "figma"
     },
     {
@@ -185,12 +452,42 @@
      "file": "visuals/loyoly-segmentation-segment-conditions-en-partner-banner.png",
      "alt": "Loyoly segment conditions, partner banner",
      "wide": true,
+     "caption": "loyoly-segmentation-segment-conditions-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-segment-conditions-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-conditions-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-conditions-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
      "source": "figma"
     },
     {
      "label": "Segment conditions, square",
      "file": "visuals/loyoly-segmentation-segment-conditions-en-square.png",
      "alt": "Loyoly segment conditions, square",
+     "caption": "loyoly-segmentation-segment-conditions-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-segment-conditions-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-conditions-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-conditions-es-square.png",
+       "label": "ES"
+      }
+     ],
      "source": "figma"
     },
     {
@@ -198,12 +495,42 @@
      "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-partner-banner.png",
      "alt": "Loyoly segment split and flow, partner banner",
      "wide": true,
+     "caption": "loyoly-segmentation-segment-split-and-flow-en/fr/es-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-fr-partner-banner.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-es-partner-banner.png",
+       "label": "ES"
+      }
+     ],
      "source": "figma"
     },
     {
      "label": "Segment split and flow, square",
      "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-square.png",
      "alt": "Loyoly segment split and flow, square",
+     "caption": "loyoly-segmentation-segment-split-and-flow-en/fr/es-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-square.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-fr-square.png",
+       "label": "FR"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-es-square.png",
+       "label": "ES"
+      }
+     ],
      "source": "figma"
     },
     {
@@ -211,6 +538,188 @@
      "file": "visuals/loyoly-segmentation-targeting-en-partner-banner.png",
      "alt": "Loyoly targeting, partner banner",
      "wide": true,
+     "caption": "loyoly-segmentation-targeting-en/fr-partner-banner.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-targeting-en-partner-banner.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-segmentation-targeting-fr-partner-banner.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "RFM recommendations, hero",
+     "file": "visuals/loyoly-segmentation-rfm-recommendations-fr-hero.png",
+     "alt": "Loyoly rfm recommendations, hero",
+     "caption": "loyoly-segmentation-rfm-recommendations-fr-hero.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-rfm-recommendations-fr-hero.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Segment split and flow, landscape",
+     "file": "visuals/loyoly-segmentation-segment-split-and-flow-fr-landscape.png",
+     "alt": "Loyoly segment split and flow, landscape",
+     "wide": true,
+     "caption": "loyoly-segmentation-segment-split-and-flow-fr-landscape.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-segment-split-and-flow-fr-landscape.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Targeting, landscape",
+     "file": "visuals/loyoly-segmentation-targeting-fr-landscape.png",
+     "alt": "Loyoly targeting, landscape",
+     "wide": true,
+     "caption": "loyoly-segmentation-targeting-fr-landscape.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-targeting-fr-landscape.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "RFM segment list, square",
+     "file": "visuals/loyoly-segmentation-rfm-segment-list-fr-square.png",
+     "alt": "Loyoly rfm segment list, square",
+     "caption": "loyoly-segmentation-rfm-segment-list-fr-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-rfm-segment-list-fr-square.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "RFM segment list, landscape",
+     "file": "visuals/loyoly-segmentation-rfm-segment-list-fr-landscape.png",
+     "alt": "Loyoly rfm segment list, landscape",
+     "wide": true,
+     "caption": "loyoly-segmentation-rfm-segment-list-fr-landscape.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-rfm-segment-list-fr-landscape.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "RFM monthly flow, square",
+     "file": "visuals/loyoly-segmentation-rfm-monthly-flow-fr-square.png",
+     "alt": "Loyoly rfm monthly flow, square",
+     "caption": "loyoly-segmentation-rfm-monthly-flow-fr-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-rfm-monthly-flow-fr-square.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Repurchase rate at risk, landscape",
+     "file": "visuals/loyoly-segmentation-repurchase-rate-at-risk-fr-landscape.png",
+     "alt": "Loyoly repurchase rate at risk, landscape",
+     "wide": true,
+     "caption": "loyoly-segmentation-repurchase-rate-at-risk-fr-landscape.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-repurchase-rate-at-risk-fr-landscape.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Automations trigger controller, square",
+     "file": "visuals/loyoly-segmentation-automations-trigger-controller-fr-square.png",
+     "alt": "Loyoly automations trigger controller, square",
+     "caption": "loyoly-segmentation-automations-trigger-controller-fr-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-segmentation-automations-trigger-controller-fr-square.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    }
+   ]
+  },
+  {
+   "title": "API",
+   "items": [
+    {
+     "label": "Integration API, hero",
+     "file": "visuals/loyoly-api-integration-api-fr-hero.png",
+     "alt": "Loyoly integration api, hero",
+     "caption": "loyoly-api-integration-api-fr-hero.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-api-integration-api-fr-hero.png",
+       "label": "FR"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Integration API, landscape",
+     "file": "visuals/loyoly-api-integration-api-en-landscape.png",
+     "alt": "Loyoly integration api, landscape",
+     "wide": true,
+     "caption": "loyoly-api-integration-api-en-landscape.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-api-integration-api-en-landscape.png",
+       "label": "EN"
+      }
+     ],
+     "source": "figma"
+    },
+    {
+     "label": "Front graphql API, square",
+     "file": "visuals/loyoly-api-front-graphql-api-en-square.png",
+     "alt": "Loyoly front graphql api, square",
+     "caption": "loyoly-api-front-graphql-api-en-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-api-front-graphql-api-en-square.png",
+       "label": "EN"
+      }
+     ],
+     "source": "figma"
+    }
+   ]
+  },
+  {
+   "title": "Omnichannel",
+   "items": [
+    {
+     "label": "One profile, square",
+     "file": "visuals/loyoly-omnichannel-one-profile-en-square.png",
+     "alt": "Loyoly one profile, square",
+     "caption": "loyoly-omnichannel-one-profile-en-square.png",
+     "downloads": [
+      {
+       "file": "visuals/loyoly-omnichannel-one-profile-en-square.png",
+       "label": "EN"
+      }
+     ],
      "source": "figma"
     }
    ]
