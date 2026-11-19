@@ -1,0 +1,212 @@
+{
+ "version": 1,
+ "groups": [
+  {
+   "title": "Loyalty and VIP",
+   "items": [
+    {
+     "label": "Rewards",
+     "file": "visuals/loyoly-loyalty-rewards2.png",
+     "alt": "Loyoly rewards interface"
+    },
+    {
+     "label": "Missions and UGC",
+     "file": "visuals/loyoly-loyalty-UGC.png",
+     "alt": "Loyoly missions and ugc interface",
+     "wide": true
+    },
+    {
+     "label": "Programme personalisation",
+     "file": "visuals/loyoly-personalisation.png",
+     "alt": "Loyoly programme personalisation interface",
+     "wide": true
+    }
+   ]
+  },
+  {
+   "title": "Referral",
+   "items": [
+    {
+     "label": "Referral page",
+     "file": "visuals/loyoly-referral.png",
+     "alt": "Loyoly referral page interface"
+    },
+    {
+     "label": "Share flow",
+     "file": "visuals/loyoly-referral2.png",
+     "alt": "Loyoly share flow interface"
+    },
+    {
+     "label": "Fraud protection",
+     "file": "visuals/loyoly-referral-fraud-protection.png",
+     "alt": "Loyoly fraud protection interface"
+    }
+   ]
+  },
+  {
+   "title": "Wallet and push notifications",
+   "items": [
+    {
+     "label": "Wallet passes",
+     "file": "visuals/loyoly-wallet.png",
+     "alt": "Loyoly wallet passes interface"
+    },
+    {
+     "label": "Loyalty card",
+     "file": "visuals/loyoly-wallet-loyalty-card.png",
+     "alt": "Loyoly loyalty card interface"
+    },
+    {
+     "label": "Push notifications",
+     "file": "visuals/loyoly-wallet-push-notifications.png",
+     "alt": "Loyoly push notifications interface"
+    },
+    {
+     "label": "Geofenced notifications",
+     "file": "visuals/loyoly-wallet-geofenced-notifications.png",
+     "alt": "Loyoly geofenced notifications interface"
+    }
+   ]
+  },
+  {
+   "title": "Shopify extensions",
+   "items": [
+    {
+     "label": "Checkout",
+     "file": "visuals/loyoly-extensions-checkout.png",
+     "alt": "Loyoly checkout interface",
+     "contain": true
+    },
+    {
+     "label": "Product page",
+     "file": "visuals/loyoly-extensions-product-page.png",
+     "alt": "Loyoly product page interface",
+     "contain": true
+    },
+    {
+     "label": "Customer account",
+     "file": "visuals/loyoly-extensions-customer-account.png",
+     "alt": "Loyoly customer account interface"
+    }
+   ]
+  },
+  {
+   "title": "Integrations and analytics",
+   "items": [
+    {
+     "label": "CRM sync",
+     "file": "visuals/loyoly-crm-sync.png",
+     "alt": "Loyoly crm sync interface"
+    },
+    {
+     "label": "Analytics",
+     "file": "visuals/loyoly-analytics1.png",
+     "alt": "Loyoly analytics interface",
+     "contain": true
+    },
+    {
+     "label": "Retention analytics",
+     "file": "visuals/loyoly-analytics2.png",
+     "alt": "Loyoly retention analytics interface",
+     "contain": true
+    }
+   ]
+  },
+  {
+   "title": "Back office, reviews and UGC",
+   "items": [
+    {
+     "label": "Back office dashboard",
+     "file": "visuals/loyoly-back-office.png",
+     "alt": "Loyoly back office dashboard interface",
+     "wide": true,
+     "contain": true
+    },
+    {
+     "label": "CRM integration",
+     "file": "visuals/loyoly-crm-integration-en.png",
+     "alt": "Loyoly crm integration interface",
+     "contain": true,
+     "downloads": [
+      {
+       "file": "visuals/loyoly-crm-integration-en.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-crm-integration-fr.png",
+       "label": "FR"
+      }
+     ],
+     "caption": "loyoly-crm-integration-en.png, -fr.png"
+    },
+    {
+     "label": "Reviews and UGC collection",
+     "file": "visuals/loyoly-ugc-reviews-en.png",
+     "alt": "Loyoly reviews and ugc collection interface",
+     "contain": true,
+     "downloads": [
+      {
+       "file": "visuals/loyoly-ugc-reviews-en.png",
+       "label": "EN"
+      },
+      {
+       "file": "visuals/loyoly-ugc-reviews-fr.png",
+       "label": "FR"
+      }
+     ],
+     "caption": "loyoly-ugc-reviews-en.png, -fr.png"
+    },
+    {
+     "label": "UGC library",
+     "file": "visuals/loyoly-ugc-library.png",
+     "alt": "Loyoly ugc library interface",
+     "contain": true
+    }
+   ]
+  },
+  {
+   "title": "Segmentation (RFM)",
+   "items": [
+    {
+     "label": "RFM recommendations, banner",
+     "file": "visuals/loyoly-segmentation-rfm-recommendations-en-partner-banner.png",
+     "alt": "Loyoly RFM segmentation recommendations, partner banner",
+     "wide": true
+    },
+    {
+     "label": "RFM recommendations, square",
+     "file": "visuals/loyoly-segmentation-rfm-recommendations-en-square.png",
+     "alt": "Loyoly RFM segmentation recommendations, square"
+    },
+    {
+     "label": "Segment conditions, banner",
+     "file": "visuals/loyoly-segmentation-segment-conditions-en-partner-banner.png",
+     "alt": "Loyoly segment conditions, partner banner",
+     "wide": true
+    },
+    {
+     "label": "Segment conditions, square",
+     "file": "visuals/loyoly-segmentation-segment-conditions-en-square.png",
+     "alt": "Loyoly segment conditions, square"
+    },
+    {
+     "label": "Segment split and flow, banner",
+     "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-partner-banner.png",
+     "alt": "Loyoly segment split and flow, partner banner",
+     "wide": true
+    },
+    {
+     "label": "Segment split and flow, square",
+     "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-square.png",
+     "alt": "Loyoly segment split and flow, square"
+    },
+    {
+     "label": "Targeting, banner",
+     "file": "visuals/loyoly-segmentation-targeting-en-partner-banner.png",
+     "alt": "Loyoly targeting, partner banner",
+     "wide": true
+    }
+   ]
+  }
+ ]
+}
