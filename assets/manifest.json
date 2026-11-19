@@ -171,40 +171,47 @@
      "label": "RFM recommendations, banner",
      "file": "visuals/loyoly-segmentation-rfm-recommendations-en-partner-banner.png",
      "alt": "Loyoly RFM segmentation recommendations, partner banner",
-     "wide": true
+     "wide": true,
+     "source": "figma"
     },
     {
      "label": "RFM recommendations, square",
      "file": "visuals/loyoly-segmentation-rfm-recommendations-en-square.png",
-     "alt": "Loyoly RFM segmentation recommendations, square"
+     "alt": "Loyoly RFM segmentation recommendations, square",
+     "source": "figma"
     },
     {
      "label": "Segment conditions, banner",
      "file": "visuals/loyoly-segmentation-segment-conditions-en-partner-banner.png",
      "alt": "Loyoly segment conditions, partner banner",
-     "wide": true
+     "wide": true,
+     "source": "figma"
     },
     {
      "label": "Segment conditions, square",
      "file": "visuals/loyoly-segmentation-segment-conditions-en-square.png",
-     "alt": "Loyoly segment conditions, square"
+     "alt": "Loyoly segment conditions, square",
+     "source": "figma"
     },
     {
      "label": "Segment split and flow, banner",
      "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-partner-banner.png",
      "alt": "Loyoly segment split and flow, partner banner",
-     "wide": true
+     "wide": true,
+     "source": "figma"
     },
     {
      "label": "Segment split and flow, square",
      "file": "visuals/loyoly-segmentation-segment-split-and-flow-en-square.png",
-     "alt": "Loyoly segment split and flow, square"
+     "alt": "Loyoly segment split and flow, square",
+     "source": "figma"
     },
     {
      "label": "Targeting, banner",
      "file": "visuals/loyoly-segmentation-targeting-en-partner-banner.png",
      "alt": "Loyoly targeting, partner banner",
-     "wide": true
+     "wide": true,
+     "source": "figma"
     }
    ]
   }
